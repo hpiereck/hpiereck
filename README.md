@@ -1,7 +1,7 @@
 <div align='center'>
 <div align='left'>
   
-# 👋 Sobre mim
+# 👋 About me
 
 <p>Hello, my name is Henrique Piereck and I am an Electrical Engineering student at UERJ (with an emphasis on Electronic Systems), expected to graduate in 2026.</p>
 
