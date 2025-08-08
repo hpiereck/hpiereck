@@ -6,7 +6,7 @@
 <p>Me chamo Henrique Piereck, e sou estudante de Engenharia Elétrica na UERJ (ênfase em Sistemas Eletrônicos) com previsão de formatura em 2026.</p>
 
 <ul>
-  <li>Atualmente estagiário de desenvolvimento de software no CREA-RJ.</li>
+  <li>Atualmente sou estagiário de desenvolvimento de software no CREA-RJ.</li>
   <li>Meu foco principal é no <strong>desenvolvimento back-end</strong> e na criação de soluções que integrem <strong>software e hardware</strong>.</li>
   <li>Sou apaixonado por tecnologia, resolução de problemas e por explorar como a programação pode otimizar sistemas do mundo real — desde automação até dispositivos embarcados.</li>
 </ul>
