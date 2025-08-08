@@ -3,7 +3,7 @@
   
 # 👋 Sobre mim
 
-<p>Me chamo Henrique Piereck, e sou estudante de Engenharia Elétrica na UERJ (ênfase em Sistemas Eletrônicos) com previsão de formatura em 2026.</p>
+<p>Me chamo Henrique Piereck, estudante de Engenharia Elétrica na UERJ (ênfase em Sistemas Eletrônicos) com previsão de formatura em 2026.</p>
 
 <ul>
   <li>Atualmente sou estagiário de desenvolvimento de software no CREA-RJ.</li>
