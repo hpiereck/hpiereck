@@ -1,10 +1,4 @@
 <div align='center'>
-
-<img src="https://media.tenor.com/c9I-X7xoFOAAAAAd/retrowave-cardrive.gif" alt="Hello world" align="center"><hr style="border: 1px solid black;">  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9A2F82&center=true&vCenter=true&width=500&lines=Hey%2C+welcome+to+my+profile!;Nice+to+meet+you+👋)](https://git.io/typing-svg)
-
-
 <div align='left'>
   
 # 👋 About Me
@@ -20,11 +14,7 @@ I'm passionate about technology, problem-solving, and exploring how programming 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=ni&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 </br>
 </br>
