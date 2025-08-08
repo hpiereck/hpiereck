@@ -3,12 +3,12 @@
   
 # 👋 Sobre mim
 
-<p>Olá, me chamo Henrique Piereck e sou estudante de Engenharia Elétrica na UERJ (ênfase em Sistemas Eletrônicos), com previsão de formatura em 2026.</p>
+<p>Hello, my name is Henrique Piereck and I am an Electrical Engineering student at UERJ (with an emphasis on Electronic Systems), expected to graduate in 2026.</p>
 
 <ul>
-  <li>Atualmente sou estagiário de desenvolvimento de software no CREA-RJ.</li>
-  <li>Meu foco principal é no <strong>desenvolvimento back-end</strong> e na criação de soluções que integrem <strong>software e hardware</strong>.</li>
-  <li>Sou apaixonado por tecnologia, resolução de problemas e por explorar como a programação pode otimizar sistemas do mundo real — desde automação até dispositivos embarcados.</li>
+  <li>I am currently a software development intern at CREA-RJ.</li>
+  <li>My main focus is on <strong>back-end development</strong> and creating solutions that integrate <strong>software and hardware</strong>.</li>
+  <li>I am passionate about technology, problem solving, and exploring how programming can optimize real-world systems — from automation to embedded devices.</li>
 </ul>
 
 # 💻 Tech Stack
@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hpiereck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" alt="Estatísticas GitHub"/>
 </p>
 
-# 🌐 Contato
+# 🌐 Contact
 <div>
 <a href="https://www.linkedin.com/in/henriquepiereck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hpiereck@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
