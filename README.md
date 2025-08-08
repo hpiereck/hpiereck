@@ -1,9 +1,10 @@
 <div align='center'>
 <div align='left'>
   
-# 👋 About Me
-<p>I'm Henrique Piereck, an Electrical Engineering student at UERJ (emphasis on Electronic Systems) graduating in 2026. My main focus is on <strong>back-end development</strong> and building solutions that integrate <strong>software and hardware</strong>.  
-I'm passionate about technology, problem-solving, and exploring how programming can optimize real-world systems — from automation to embedded devices.</p> 
+# 👋 Sobre mim
+<p>Sou Henrique Piereck, estudante de Engenharia Elétrica na UERJ (ênfase em Sistemas Eletrônicos) com previsão de formatura em 2026.  
+Meu foco principal é no <strong>desenvolvimento back-end</strong> e na criação de soluções que integrem <strong>software e hardware</strong>.  
+Sou apaixonado por tecnologia, resolução de problemas e por explorar como a programação pode otimizar sistemas do mundo real — desde automação até dispositivos embarcados.</p> 
 
 # 💻 Tech Stack
 </br>
@@ -29,19 +30,12 @@ I'm passionate about technology, problem-solving, and exploring how programming 
 </br>
 </br>
 
-# 🚀 Expertise
-</br>
-
-<p>Persistent, analytical, and detail-oriented. I believe in clean, well-structured code as the foundation for maintainable and scalable systems.  
-I thrive in bridging the gap between hardware and software, applying engineering principles to deliver efficient solutions.  
-Always eager to learn, explore new technologies, and embrace challenges that foster growth.</p>
-
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=HenriquePiereck&bg_color=000000&color=9A2F82&line=8a2be2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=hpiereck&bg_color=000000&color=9A2F82&line=8a2be2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 🌐 Socials
 <div>
-<a href="https://www.linkedin.com/in/henrique-piereck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:henrique.piereck@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/henriquepiereck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hpiereck@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 </div>
