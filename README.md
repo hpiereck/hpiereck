@@ -39,7 +39,7 @@
 </br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpiereck&layout=compact&langs_count=6&hide=javascript,html,css,shell,php&theme=tokyonight" width="430" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpiereck&layout=compact&langs_count=6&theme=tokyonight" width="430" alt="Linguagens mais usadas"/>
   <img src="https://github-readme-stats.vercel.app/api?username=hpiereck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" alt="Estatísticas GitHub"/>
 </p>
 
